@@ -8,7 +8,14 @@
         ["radao","April 2017", 78.58],
         ["radao","May 2017", 89.13],
         ["radao","June 2017", 45.78],
-        ["radao","July 2017", 90.22]
+        ["radao","July 2017", 90.22],
+        ["humidade","January 2017", 120],
+        ["humidade","February 2017", 170],
+        ["humidade","March 2017", 45],
+        ["humidade","April 2017", 70],
+        ["humidade","May 2017", 100],
+        ["humidade","June 2017", 45],
+        ["humidade","July 2017", 20]
       ]
     }
   ]
